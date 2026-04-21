@@ -1,14 +1,10 @@
 {
   "framework": null,
-  "buildCommand": null,
-  "installCommand": null,
   "functions": {
     "api/ghl-webhook.js": {
-      "runtime": "nodejs20.x",
       "maxDuration": 30
     },
     "api/hs-call-webhook.js": {
-      "runtime": "nodejs20.x",
       "maxDuration": 30
     }
   }
