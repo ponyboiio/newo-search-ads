@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/ghl-webhook.js": {
+      "maxDuration": 30
+    }
+  }
+}
